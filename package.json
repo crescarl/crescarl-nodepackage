@@ -7,6 +7,10 @@
   "scripts": {
     "start": "node app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crescarl/crescarl-nodepackage"
+  },
   "keywords": [
     "crescarl",
     "carlo",
@@ -16,10 +20,12 @@
   "author": "Crescarl Rausa Ocariza",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "prompts": "^2.4.2"
   },
   "customFields": {
     "projectType": "web app",
     "targetAudience": "students"
-  }
+  },
+  "purposeofThePackage": "To build a web application"
 }
