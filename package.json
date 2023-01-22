@@ -1,0 +1,25 @@
+{
+  "name": "crescarl-nodepackage",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This package is a personal package made by Crescarl for Elective 3 subject.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "crescarl",
+    "carlo",
+    "ocariza",
+    "elec3"
+  ],
+  "author": "Crescarl Rausa Ocariza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "customFields": {
+    "projectType": "web app",
+    "targetAudience": "students"
+  }
+}
